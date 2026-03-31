@@ -1,0 +1,13 @@
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.1
+matplotlib>=3.6
+h5py>=3.8
+tqdm>=4.65
+einops>=0.6
+
+torch>=2.0
+torchvision>=0.15
+
+mamba-ssm>=1.2.0
+ptflops>=0.7
